@@ -1,0 +1,5 @@
+bb.db.host=127.0.0.1
+bb.db.port=5432
+bb.db.name=bb
+bb.username=abhishekshukla
+bb.password=shavron
